@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.application.config.import",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.config.import'"
+  },
+  {
+    "name": "management.tracing.sampling.probability",
+    "type": "java.lang.String",
+    "description": "A description for 'management.tracing.sampling.probability'"
+  }
+]}
